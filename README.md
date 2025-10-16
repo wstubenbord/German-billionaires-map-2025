@@ -3,4 +3,6 @@ An R-based ggplot2 visualization of the geographic distribution of German billio
 
 See here for the blog post: https://wesleystubenbord.com/blog/2025/10/mapping-german-billionaires/
 
-Note: You may run into problems if you don't have the Roboto Condensed font family installed or Roboto Condensed Light registered as a [variant](https://systemfonts.r-lib.org/reference/register_variant.html). Removing font specifications from the code should solve any problems, of course.
+Note: You may run into problems if you don't have the Roboto Condensed font family installed or Roboto Condensed Light registered as a [variant](https://systemfonts.r-lib.org/reference/register_variant.html). Removing those font specifications should solve any problems.
+
+![](map_wealth_concentration_germany.png)
