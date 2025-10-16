@@ -1,0 +1,73 @@
+﻿city,n,total_worth,full_address,lat,lon
+Allendorf,1,2.7,"Allendorf, Germany",50.2679502,7.9982619
+Attendorn,2,10.4,"Attendorn, Germany",51.1250541,7.9010992
+Bad Homburg,1,25.2,"Bad Homburg, Germany",50.2363508,8.5980265
+Battenberg,2,11,"Battenberg, Germany",51.0323524,8.6112782
+Bergisch Gladbach,1,2.9,"Bergisch Gladbach, Germany",50.9929303,7.1277379
+Berlin,12,23.7,"Berlin, Germany",52.5173885,13.3951309
+Bielefeld,5,7.3,"Bielefeld, Germany",52.0191005,8.531007
+Bovenden,1,1.6,"Bovenden, Germany",51.5869442,9.9265526
+Bremen,2,6.4,"Bremen, Germany",53.0758196,8.8071646
+Bruchsal,1,7.9,"Bruchsal, Germany",49.124118,8.5980244
+Burgebrach,1,1.5,"Burgebrach, Germany",49.8268938,10.7424981
+Coburg,1,4.5,"Coburg, Germany",50.2582226,10.964561
+Darmstadt,1,2.4,"Darmstadt, Germany",49.872775,8.651177
+Detmold,1,1.5,"Detmold, Germany",51.936284,8.8791526
+Duderstadt,1,4.9,"Duderstadt, Germany",51.5123672,10.2610699
+Dusseldorf,2,4.6,"Dusseldorf, Germany",51.2254018,6.7763137
+Erkerode,1,2.4,"Erkerode, Germany",52.2037891,10.7084491
+Espelkamp,1,2.5,"Espelkamp, Germany",52.3778041,8.6157377
+Essen,1,5.5,"Essen, Germany",51.4582235,7.0158171
+Frankfurt,2,25.8,"Frankfurt, Germany",50.1106444,8.6820917
+Gaildorf,1,1.8,"Gaildorf, Germany",49.0002603,9.7698525
+Grebenhain,1,4.5,"Grebenhain, Germany",50.4926419,9.3353109
+Gräfelfing,1,1,"Gräfelfing, Germany",48.1212042,11.4299784
+Haiger,1,13,"Haiger, Germany",50.7752801,8.2129059
+Hamburg,11,48.1,"Hamburg, Germany",53.550341,10.000654
+Heidelberg,4,26.9,"Heidelberg, Germany",49.4093582,8.694724
+Herzogenaurach,2,13.2,"Herzogenaurach, Germany",49.5690382,10.881999799999999
+Ingelheim,15,81,"Ingelheim, Germany",49.9752749,8.0547274
+Iphofen,1,1.6,"Iphofen, Germany",49.7042096,10.2607784
+Karlsruhe,1,3.6,"Karlsruhe, Germany",49.0068705,8.4034195
+Kernen,1,1.1,"Kernen, Germany",48.7965338,9.3286487
+Krefeld,1,1.5,"Krefeld, Germany",51.3331205,6.5623343
+Kuenzelsau,1,35.1,"Kuenzelsau, Germany",49.2803765,9.6901512
+Landsberg,1,1.8,"Landsberg, Germany",48.0497474,10.8768728
+Landsberg am Lech,2,3.6,"Landsberg am Lech, Germany",48.0497474,10.8768728
+Landshut,1,1.8,"Landshut, Germany",48.536217,12.1516551
+Leipzig,1,2.7,"Leipzig, Germany",51.3406321,12.3747329
+Lower-Saxony,1,4.3,"Lower-Saxony, Germany",52.8398531,9.075962
+Mainz,1,4.3,"Mainz, Germany",49.9995205,8.2736253
+Marburg,2,4.6,"Marburg, Germany",50.8090106,8.7704695
+Meerbusch,1,1.2,"Meerbusch, Germany",51.2652237,6.6760958
+Melsungen,8,14,"Melsungen, Germany",51.1425944,9.5833158
+Montabaur,1,2.5,"Montabaur, Germany",50.4362219,7.8302494
+Muelheim,1,15,"Muelheim, Germany",51.4272925,6.8829192
+Mulheim an der Ruhr,1,15,"Mulheim an der Ruhr, Germany",51.4272925,6.8829192
+Munich,19,57.8,"Munich, Germany",48.1371079,11.5753822
+Neckarsulm,1,41,"Neckarsulm, Germany",49.191133,9.2248391
+Neuss,1,15,"Neuss, Germany",51.1981778,6.6916476
+Neustadt,2,5.8,"Neustadt, Germany",49.3539802,8.1350021
+Neustadt an der Waldnaab,1,2.7,"Neustadt an der Waldnaab, Germany",49.7314121,12.1732938
+Northeim,1,2.2,"Northeim, Germany",51.7643824,9.8583289
+Ohningen,1,2.7,"Ohningen, Germany",47.6617131,8.8873571
+Oranienburg,1,1.7,"Oranienburg, Germany",52.7529379,13.2457591
+Passau,1,4.5,"Passau, Germany",48.5748229,13.4609744
+Potsdam,1,1.2,"Potsdam, Germany",52.4009309,13.0591397
+Rechterfeld,1,3.8,"Rechterfeld, Germany",52.8422565,8.3847971
+Rheda-Wiedenbrück,2,2.2,"Rheda-Wiedenbrück, Germany",51.8428202,8.2985615
+Rottendorf,1,1.6,"Rottendorf, Germany",49.7921073,10.0259501
+Schwieberdingen,1,2.1,"Schwieberdingen, Germany",48.8749991,9.0778484
+Selters,1,3.1,"Selters, Germany",50.5203849,7.7337742
+St. Wendel,1,1.6,"St. Wendel, Germany",49.466972,7.1653135
+Straelen,1,1.3,"Straelen, Germany",51.4439341,6.2694388
+Stuttgart,3,14.7,"Stuttgart, Germany",48.7784485,9.1800132
+Tegernsee,3,24.5,"Tegernsee, Germany",47.7099191,11.7543337
+Ulm,4,19.6,"Ulm, Germany",48.3984968,9.9912458
+Visbek,1,6.1,"Visbek, Germany",52.8337724,8.3148496
+Waiblingen,1,1.1,"Waiblingen, Germany",48.8325659,9.3163822
+Walldorf,1,5.2,"Walldorf, Germany",49.3038134,8.6433518
+Weinheim,2,3.6,"Weinheim, Germany",49.5462349,8.6717458
+Wiesloch,1,2.2,"Wiesloch, Germany",49.2942599,8.698707
+Wolfenbüttel,1,1.5,"Wolfenbüttel, Germany",52.1625283,10.5348215
+Würzburg,1,1.2,"Würzburg, Germany",49.7780356,9.9434769
